@@ -1,0 +1,1 @@
+npx hardhat ignition deploy ignition/modules/ERC1673.ts --network polkadotTestNet --reset
