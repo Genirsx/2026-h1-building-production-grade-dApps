@@ -1,0 +1,5 @@
+{
+  "UpgradableContractModule#UpgradableContract": "0x037615aB62133Cd30dBe0D23F3B75fede3fDC567",
+  "UpgradableContractModule#OZERC1967Proxy": "0x3F52D4950638Ed676aCda1623267c89b05ba36DD",
+  "UpgradableContractModule#UpgradableContractProxy": "0x3F52D4950638Ed676aCda1623267c89b05ba36DD"
+}
